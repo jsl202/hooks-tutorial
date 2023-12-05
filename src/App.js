@@ -1,7 +1,7 @@
-import Info from "./08_Hooks/Info";
+import Average from "./08_Hooks/Average";
 
 const App = () => {
-  return <Info />;
+  return <Average />;
 };
 
 export default App;
